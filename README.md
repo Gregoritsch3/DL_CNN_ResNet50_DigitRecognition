@@ -1,0 +1,2 @@
+# DL_Digit_Recognition
+A Deep Learning Computer Vision project that classifies images from the MNIST Digit Dataset. The project demonstrates the use of four TensorFlow Neural Network architectures, ranging from a basic Shallow Sigmoid Model to a deep Convolutional Model constructed using the FunctionalAPI, and even a modified Resnet50 Model. The project includes Error Analysis and Test Runs on custom-made images. The results are satisfactory.
